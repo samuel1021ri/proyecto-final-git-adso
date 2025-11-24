@@ -1,1 +1,1 @@
-Notas del estudiante B
+texto del estudiante A

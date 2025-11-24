@@ -1,1 +1,1 @@
-texto del estudiante A
+texto del estudiante B

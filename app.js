@@ -1,4 +1,4 @@
-/*rama:feature/login 
+/*rama:feature/dasboard
 fecha:24/11/25
 descripcion funcionalidad: Funcionalidad: Búsqueda de información
 
@@ -9,12 +9,6 @@ La búsqueda puede filtrar, ordenar o sugerir resultados automáticamente para m
 Objetivo:
 Facilitar el acceso a información sin necesidad de recorrer manualmente todo el contenido.
 
-Ejemplo de uso:
 
-Buscar productos en una tienda en línea.
-
-Localizar archivos o documentos en una plataforma.
-
-Encontrar usuarios o mensajes en una red social.
 
 */

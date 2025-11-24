@@ -1,1 +1,1 @@
-notas iniciales
+notas iniciales ba

@@ -1,1 +1,2 @@
-notas iniciales ba
+
+notas combinadas del equipo 
